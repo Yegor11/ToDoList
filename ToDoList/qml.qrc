@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Edit_zone.qml</file>
+    </qresource>
+</RCC>
